@@ -1,6 +1,6 @@
 Titel: The Spinning flower
 
-![ScreenShot](screenshot.JPG)
+![ScreenShot](screenshot.jpg)
 
 link: https://oorthianemissary.github.io/mini_ex7/
 
